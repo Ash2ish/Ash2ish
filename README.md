@@ -5,7 +5,7 @@
 
 - 🌍  I'm based in India
 
-- 🌱 I’m currently learning  **Full Stack development from coding ninja**
+- 🌱 I’m currently learning  **Full Stack development from coding ninjas**
 
 - 📫 How to reach me **ashishbju9@gmail.com**
  
